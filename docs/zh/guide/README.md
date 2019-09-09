@@ -4,7 +4,7 @@ NoSmoke 是一款基于source-XML-tree/OCR 为基础的多端UI自动化测试�
 
 ## 1. NoSmoke 的优势:
 
-NoSmoke 提供一下能力:
+NoSmoke 提供以下能力:
 
 * ✅ 以**最轻便的配置能力**以及**最简化的脚本**执行**自动化UI测试**.
 
